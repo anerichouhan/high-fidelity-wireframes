@@ -51,5 +51,7 @@ You may view all screens [here.](https://www.figma.com/file/V0V8dwrWILpboToyAR4M
 Here's a screenshot of all my screens linked to each other to form a flow. 
 ![](https://github.com/anerichouhan/high-fidelity-wireframes/blob/master/Screen%20Shot%202020-05-27%20at%2012.40.14%20PM.png)
 
+To more simply understand the key steps, I made a flowchart that represents the three main features:
+![](https://github.com/anerichouhan/high-fidelity-wireframes/blob/master/Screen%20Shot%202020-05-27%20at%2012.49.30%20PM.png)
 
 
