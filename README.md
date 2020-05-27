@@ -26,6 +26,6 @@ I wanted the font to be easy on the eyes because this is such a text heavy websi
 
 ***Colors***
 I did not want to stray from the TechCrunch color of green. Green respresents freshness, growth, progress, and energy - all important aspects of technologicall advancements. So I picked several varieties of green and picked the one that permormed best with accessibility checks. 
-![check](https://github.com/anerichouhan/high-fidelity-wireframes/blob/master/Screen%20Shot%202020-05-27%20at%2012.18.11%20PM.png){:height="50%" width="50%"}
+![check](https://github.com/anerichouhan/high-fidelity-wireframes/blob/master/Screen%20Shot%202020-05-27%20at%2012.24.08%20PM.png)
 
 
