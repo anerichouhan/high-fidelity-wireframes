@@ -75,19 +75,35 @@ Users from class metioned that people might not know what TC means and having th
 Users recommended that after reading one article, they should have the option to read another related one. So I implemented a "Next article" button to maintain a better sense of continuity.
 ![](https://github.com/anerichouhan/high-fidelity-wireframes/blob/master/Screen%20Shot%202020-05-27%20at%201.41.36%20PM.png)
 
-**3 Added done and clear filter buttons for filters**
+**3. Added done and clear filter buttons for filters**
 Based on my classmates feedback, I altered the action of closing filters to provide users with more feedback and a sense of security. Upon testing, I found that this eliminated the initial confusion around filters.
 ![](https://github.com/anerichouhan/high-fidelity-wireframes/blob/master/Screen%20Shot%202020-05-27%20at%201.46.17%20PM.png)
 
-**4 Implemented a drop shadow in the top nav bar**
+**4. Implemented a drop shadow in the top nav bar**
 Some users expressed confusion about how the top navigation bard is not the most distinguishable and so they did not know the could click on it. In order to make it stand out more, I added a drop shadow to make sure users know it is separate from the main site content. 
 ![](https://github.com/anerichouhan/high-fidelity-wireframes/blob/master/Screen%20Shot%202020-05-27%20at%201.52.01%20PM.png)
 
+**5. Eliminate some Extra steps**
+Based on the feedback I got from users I saw that for my library feature, it was possible to achieve the goal in one less step by rearranging some content. So I went ahead and did so to make the task easier. 
 
-
+**6. Ensure better wireframe connectivity**
+During several tests, not everything was connected. So I spent some time correcting the erroneous connections, and adding more necessary connections in the prototype. 
 
 
 ### Refelctions
 
+The design and testing process was a great learning experience. I had several moments of confusion and frustrations when I did not know how to implement some aspects of my GUI. I found it helpful to draw inspiration from other websites and see how they implemented different flows. During user testing, I realized how important it is to make sure all the screens are connected properly. Overall, this was a wonderful process and I'm really happy to have put all this work together!
+
+***Design Changes Going Forward***
+
+Based off of the feedback I got in the latest round of testing, here are some things I might want to change:
+
+**1. Add pages for Events & ExtraCrunch**
+
+Because these pages are not related to the three tasks, I did not include them in the prototype. It might be useful to design them and complete the entire website.
+
+**2. Potential new feature: Custom Tags**
+
+Based on my last test, I found that it may be cool to give the users to make their own tags to organize their library. This might be a cool feature to design and explore in the future. 
 
 
