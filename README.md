@@ -1,4 +1,4 @@
-# high-fidelity-wireframes
+# High Fidelity Wireframes
 
 **Description of the Project**
 
@@ -23,3 +23,9 @@ I used icons from the Material Design UI kit in order to maintain a clean consis
 I wanted the font to be easy on the eyes because this is such a text heavy website. I tested several fonts with users through a survey to see which felt easy to read while looking good aesthetically Reading articles with serif fonts. 64% of users picked Roboto and so that's what I chose as my sites main font. 
 
 ![fonts](https://github.com/anerichouhan/high-fidelity-wireframes/blob/master/Screen%20Shot%202020-05-27%20at%2012.10.18%20PM.png)
+
+***Colors***
+I did not want to stray from the TechCrunch color of green. Green respresents freshness, growth, progress, and energy - all important aspects of technologicall advancements. So I picked several varieties of green and picked the one that permormed best with accessibility checks. 
+![check](https://github.com/anerichouhan/high-fidelity-wireframes/blob/master/Screen%20Shot%202020-05-27%20at%2012.18.11%20PM.png)
+
+
