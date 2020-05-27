@@ -54,4 +54,16 @@ Here's a screenshot of all my screens linked to each other to form a flow.
 To more simply understand the key steps, I made a flowchart that represents the three main features:
 ![](https://github.com/anerichouhan/high-fidelity-wireframes/blob/master/Screen%20Shot%202020-05-27%20at%2012.49.30%20PM.png)
 
+### Coginitive Walk Through
+
+You may find the audio to the cognitive walkthrough [here.]()
+
+**Summary of findings**
+
+### Changes I made based on feedback
+
+
+### Refelctions
+
+
 
