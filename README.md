@@ -20,7 +20,7 @@ The purpose of these high fidelity wireframes is to visualize new features like 
 
 **Icons**
 
-I used icons from the Material Design UI kit in order to maintain a clean consistency across the websit. Some of the key icons I made use of included chevrons, notifications, Bookmark, search, and filter. The benefits of using an established UI kit were that it maintained consistency, and used icons that people are already familiar with, making it easy to recognize calls to action. 
+I used icons from the Material Design UI kit in order to maintain a clean consistency across the websit. Some of the key icons I made use of included chevrons, notifications, Bookmark, search, and filter. The benefits of using an established UI kit were that it maintained consistency, and used icons that people are already familiar with, making it easy to recognize calls to action. One of my users remarked that the "bookmark" icon is very well recognized.
 
 **Typography**
 
